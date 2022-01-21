@@ -1,0 +1,45 @@
+* {
+	font-family: 'Work Sans';
+	background-color: lightgrey;
+}
+
+
+h1 {
+	font-size: 80px;
+	text-align: center;
+	opacity: 0.7;
+	background-image: url();
+}
+
+.date {
+	color: darkgrey;
+	text-align: right;
+}
+
+a:hover {
+color: hsl(43, 89%, 38%);
+}
+
+.title {
+	color: hsl(43, 89%, 38%);
+}
+
+.about {
+	text-align: justify;
+}
+
+.opinion {
+	text-align: justify;
+}
+
+.opinion1 {
+	text-align: justify;
+}
+
+.more {
+	text-align: justify;
+}
+
+.info {
+	color: hsla(43, 89%, 38%, 0.3);
+}
